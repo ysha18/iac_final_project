@@ -1,0 +1,2 @@
+### Although you defined the VolumeSize of the machine correctly, the t2.medium instance type is not suitable for this project. Why you defined t2.medium instance type rather than t3.small or better? 
+"You'll need two vCPUs and at least 4GB of RAM": this was taken from the project description. I see only medium instance types having 4GB of RAM.
